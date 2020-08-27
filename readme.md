@@ -10,4 +10,4 @@
 
 
 
-![](https://github.com/eduardonk9999/Rest/tree/master/wp-content/themes/rest/capa.png "Logo") 
+![](https://raw.githubusercontent.com/eduardonk9999/Rest/master/wp-content/themes/rest/img/capa.png "Logo") 
