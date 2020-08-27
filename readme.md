@@ -8,3 +8,6 @@
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
 
+
+
+![](https://github.com/eduardonk9999/Rest/tree/master/wp-content/themes/rest/capa.png "Logo") 
