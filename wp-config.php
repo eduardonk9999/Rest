@@ -83,6 +83,7 @@ $table_prefix = 'rest__db';
  * @link https://wordpress.org/support/article/debugging-in-wordpress/
  */
 define( 'WP_DEBUG', false );
+define('FS_METHOD','direct');
 
 /* Isto é tudo, pode parar de editar! :) */
 
